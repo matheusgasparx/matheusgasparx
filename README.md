@@ -26,3 +26,14 @@
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="49" height="30" alt="gmailLogo"  />
     </a>
 </div>
+
+  ##
+
+<div align="center">
+
+  [![](https://visitcount.itsvg.in/api?id=matheusgasparx&label=&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
+  
+
+  
