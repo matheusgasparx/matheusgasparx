@@ -31,7 +31,7 @@
 
 <div align="center">
 
-  [![](https://visitcount.itsvg.in/api?id=matheusgasparx&label=&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=matheusgasparx&label=views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
   
