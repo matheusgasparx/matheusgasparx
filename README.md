@@ -25,9 +25,11 @@
     <a href="mailto:contatomatheusgaspar@gmail.com" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="49" height="30" alt="gmailLogo"  />
     </a>
-</div>
+</div><br>
 
-  ##
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="70" height="65">
+</div>
 
 <div align="center">
 
