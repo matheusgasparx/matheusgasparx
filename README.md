@@ -1,4 +1,4 @@
-<h2>💻 Skill and Tools:</h2>
+<h2>💻 Skill and Tools whos i'm learning:</h2>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="gaspar-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
