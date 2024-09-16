@@ -18,18 +18,6 @@
   ## 
 
 <div align="center">
-    <a href="https://instagram.com/matheusgasparx" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="20" alt="instagramLogo" />
-    </a>
-    <a href="https://www.linkedin.com/in/mgaspardev/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="20" alt="linkedinLogo" />
-    </a>
-    <a href="mailto:contatomatheusgaspar@gmail.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="20" alt="gmailLogo" />
-    </a>
-</div><br>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="70" height="65" />
 </div>
 
@@ -39,5 +27,14 @@
 
 </div>
   
-
-  
+<div align="center">
+    <a href="https://instagram.com/matheusgasparx" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="20" alt="instagramLogo" />
+    </a>
+    <a href="https://www.linkedin.com/in/mgaspardev/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="20" alt="linkedinLogo" />
+    </a>
+    <a href="mailto:contatomatheusgaspar@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="20" alt="gmailLogo" />
+    </a>
+</div
