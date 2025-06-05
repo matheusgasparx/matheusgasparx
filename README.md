@@ -1,5 +1,5 @@
-<h2>💻 Skills and tools I'm currently learning:</h2>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=matheusgasparx.matheusgasparx" />
+<h2>💻 Skills and tools I'm currently learning:</h2>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="gaspar-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
