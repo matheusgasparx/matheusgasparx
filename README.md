@@ -15,6 +15,7 @@
   <img align="center" alt="gaspar-Vitest" height="55" width="55" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Cypress-Dark.svg" />
   <img align="center" alt="gaspar-Redis" height="55" width="55" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Redis-Dark.svg" />
   <img align="center" alt="gaspar-Aws" height="55" width="55" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" />
+  <img align="center" alt="gaspar-Firebase" height="55" width="55" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Dark.svg" />
   <img align="center" alt="gaspar-Git" height="55" width="55" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
 </div>
 
