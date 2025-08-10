@@ -1,21 +1,17 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=matheusgasparx.matheusgasparx" />
 <h2>💻 Skills and tools I'm currently learning:</h2>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/matheusgasparx">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,nuxt,react,nextjs,nodejs,tailwind,figma,vitest,cypress,redis,aws,firebase,git" />
   </a>
-</p>
-
-  ## 
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" height="45" />
 </div>
-
-<br/>
   
-<div align="center" margin="3">
+<div align="center">
     <a href="https://instagram.com/matheusgasparx" target="_blank">
       <img src="https://skillicons.dev/icons?i=instagram" width="30" height="20" />
     </a>
