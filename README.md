@@ -17,12 +17,12 @@
   
 <div align="center" margin="3">
     <a href="https://instagram.com/matheusgasparx" target="_blank">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="30" height="20" alt="instagramLogo" />
+      <img src="https://skillicons.dev/icons?i=instagram" width="30" height="20" />
     </a>
     <a href="mailto:contatomatheusgaspar@gmail.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" width="30" height="20" alt="gmailLogo" />
+      <img src="https://skillicons.dev/icons?i=gmail" width="30" height="20" alt="gmailLogo" />
     </a>
     <a href="https://www.linkedin.com/in/mgaspardev/" target="_blank">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="30" height="20" alt="linkedinLogo" />
+      <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="20" alt="linkedinLogo" />
     </a>
 </div>
