@@ -3,7 +3,11 @@
 
 <div align="center">
   <a href="https://github.com/matheusgasparx">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,nuxt,react,nextjs,nodejs,tailwind,figma,vitest,cypress,redis,aws,firebase,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,nuxt,react,nextjs,tailwind,figma,vitest,cypress,playwrght" />
+  </a>
+  <br/>
+  <a href="https://github.com/matheusgasparx">
+    <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,redis,aws,firebase,git" />
   </a>
 </div>
 
