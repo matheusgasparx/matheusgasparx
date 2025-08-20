@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/matheusgasparx">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,nuxt,react,nextjs,tailwind,figma,vitest,cypress,playwrght" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,nuxt,react,nextjs,tailwind,figma,vitest,cypress" />
   </a>
   <br/>
   <a href="https://github.com/matheusgasparx">
