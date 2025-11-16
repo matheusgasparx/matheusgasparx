@@ -7,7 +7,7 @@
   </a>
   <br/>
   <a href="https://github.com/matheusgasparx">
-    <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,redis,aws,firebase,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,postgres,redis,aws,supabase,firebase,git" />
   </a>
 </div>
 
