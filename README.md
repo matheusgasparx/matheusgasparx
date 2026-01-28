@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=matheusgasparx.matheusgasparx" />
-<h2>💻 Skills and tools I'm currently learning:</h2>
+<h3>💻 Skills and tools I'm currently learning:</h3>
 
 <div align="center">
   <a href="https://github.com/matheusgasparx">
