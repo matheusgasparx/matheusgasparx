@@ -16,13 +16,10 @@
 </div>
   
 <div align="center">
-    <a href="https://instagram.com/matheusgasparx" target="_blank">
-      <img src="https://skillicons.dev/icons?i=instagram" width="30" height="20" />
+    <a href="https://www.linkedin.com/in/mgaspardev/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="20" alt="linkedinLogo" />
     </a>
     <a href="mailto:contatomatheusgaspar@gmail.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=gmail" width="30" height="20" alt="gmailLogo" />
-    </a>
-    <a href="https://www.linkedin.com/in/mgaspardev/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="20" alt="linkedinLogo" />
     </a>
 </div>
